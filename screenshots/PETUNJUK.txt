@@ -1,0 +1,1 @@
+Simpan screenshot asli aplikasi di folder ini: dashboard.png, daftar-ruangan.png, hasil-rekomendasi.png.
